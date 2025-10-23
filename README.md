@@ -2,4 +2,4 @@
 Testing GitHub features
 
 * Ryan Pinto
-* Harsh 
+* Harsh D
